@@ -1,0 +1,27 @@
+question_id,question,expected_status,actual_status,correct
+Q1,How would you describe current adoption of robotic surgery in your market?,SUFFICIENT,SUFFICIENT,True
+Q2,What are the main barriers to adoption?,SUFFICIENT,SUFFICIENT,True
+Q3,How important are hospital budgets and ROI in purchasing decisions?,SUFFICIENT,SUFFICIENT,True
+Q4,How important are surgeon training and clinical outcomes?,SUFFICIENT,SUFFICIENT,True
+Q5,What adoption trend do you expect over the next 3–5 years?,SUFFICIENT,SUFFICIENT,True
+Q6,What is the typical hospital decision-making timeline for purchasing a new robotic system?,SUFFICIENT,SUFFICIENT,True
+Q7,Who won the FIFA World Cup in 2022?,INSUFFICIENT,INSUFFICIENT,True
+Q8,Which country has won the most Olympic gold medals?,INSUFFICIENT,INSUFFICIENT,True
+Q9,Who is currently the world's number-one tennis player?,INSUFFICIENT,INSUFFICIENT,True
+Q10,What are the latest advancements in quantum computing?,INSUFFICIENT,INSUFFICIENT,True
+Q11,How does blockchain technology work?,INSUFFICIENT,INSUFFICIENT,True
+Q12,What is the difference between supervised and unsupervised machine learning?,INSUFFICIENT,INSUFFICIENT,True
+Q13,What factors influence fluctuations in cryptocurrency prices?,INSUFFICIENT,INSUFFICIENT,True
+Q14,How does inflation affect the purchasing power of consumers?,INSUFFICIENT,INSUFFICIENT,True
+Q15,What are the best investment strategies for long-term wealth creation?,INSUFFICIENT,INSUFFICIENT,True
+Q16,How does photosynthesis work in plants?,INSUFFICIENT,INSUFFICIENT,True
+Q17,What causes earthquakes and volcanic eruptions?,INSUFFICIENT,INSUFFICIENT,True
+Q18,Why do planets orbit around the Sun?,INSUFFICIENT,INSUFFICIENT,True
+Q19,How do electric vehicle manufacturers optimize battery production costs?,INSUFFICIENT,INSUFFICIENT,True
+Q20,What are the major challenges facing the global aviation industry?,INSUFFICIENT,INSUFFICIENT,True
+Q21,How has social media changed consumer purchasing behavior?,INSUFFICIENT,INSUFFICIENT,True
+Q22,How is robotic surgery adoption progressing in the United States?,INSUFFICIENT,INSUFFICIENT,True
+Q23,What are the leading robotic surgery systems used in Japanese hospitals?,INSUFFICIENT,INSUFFICIENT,True
+Q24,What is the average purchase price of a robotic surgery system in India?,INSUFFICIENT,INSUFFICIENT,True
+Q25,Which robotic surgery manufacturer has the largest global market share?,INSUFFICIENT,INSUFFICIENT,True
+Q26,What are the clinical outcomes of robotic surgery for cardiac procedures?,INSUFFICIENT,INSUFFICIENT,True

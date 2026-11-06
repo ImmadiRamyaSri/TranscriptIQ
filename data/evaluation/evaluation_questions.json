@@ -1,0 +1,159 @@
+
+[
+    {
+        "id": "Q1",
+        "question": "How would you describe current adoption of robotic surgery in your market?",
+        "expected_relevance": "relevant",
+        "expected_topics": ["market adoption"]
+    },
+    {
+        "id": "Q2",
+        "question": "What are the main barriers to adoption?",
+        "expected_relevance": "relevant",
+        "expected_topics": ["cost", "funding", "training"]
+    },
+    {
+        "id": "Q3",
+        "question": "How important are hospital budgets and ROI in purchasing decisions?",
+        "expected_relevance": "relevant",
+        "expected_topics": ["hospital budgets", "ROI", "economics"]
+    },
+    {
+        "id": "Q4",
+        "question": "How important are surgeon training and clinical outcomes?",
+        "expected_relevance": "relevant",
+        "expected_topics": ["surgeon training", "clinical outcomes"]
+    },
+    {
+        "id": "Q5",
+        "question": "What adoption trend do you expect over the next 3–5 years?",
+        "expected_relevance": "relevant",
+        "expected_topics": ["future adoption"]
+    },
+    {
+        "id": "Q6",
+        "question": "What is the typical hospital decision-making timeline for purchasing a new robotic system?",
+        "expected_relevance": "relevant",
+        "expected_topics": ["purchasing timeline"]
+    },
+    {
+        "id": "Q7",
+        "question": "Who won the FIFA World Cup in 2022?",
+        "expected_relevance": false,
+        "expected_topics": []
+    },
+    {
+        "id": "Q8",
+        "question": "Which country has won the most Olympic gold medals?",
+        "expected_relevance": false,
+        "expected_topics": []
+    },
+        {
+        "id": "Q9",
+        "question": "Who is currently the world's number-one tennis player?",
+        "expected_relevance": false,
+        "expected_topics": []
+    },
+    {
+        "id": "Q10",
+        "question": "What are the latest advancements in quantum computing?",
+        "expected_relevance": false,
+        "expected_topics": []
+    },
+    {
+        "id": "Q11",
+        "question": "How does blockchain technology work?",
+        "expected_relevance": false,
+        "expected_topics": []
+    },
+    {
+        "id": "Q12",
+        "question": "What is the difference between supervised and unsupervised machine learning?",
+        "expected_relevance": false,
+        "expected_topics": []
+    },
+    {
+        "id": "Q13",
+        "question": "What factors influence fluctuations in cryptocurrency prices?",
+        "expected_relevance": false,
+        "expected_topics": []
+    },
+    {
+        "id": "Q14",
+        "question": "How does inflation affect the purchasing power of consumers?",
+        "expected_relevance": false,
+        "expected_topics": []
+    },
+    {
+        "id": "Q15",
+        "question": "What are the best investment strategies for long-term wealth creation?",
+        "expected_relevance": false,
+        "expected_topics": []
+    },
+    {
+        "id": "Q16",
+        "question": "How does photosynthesis work in plants?",
+        "expected_relevance": false,
+        "expected_topics": []
+    },
+    {
+        "id": "Q17",
+        "question": "What causes earthquakes and volcanic eruptions?",
+        "expected_relevance": false,
+        "expected_topics": []
+    },
+    {
+        "id": "Q18",
+        "question": "Why do planets orbit around the Sun?",
+        "expected_relevance": false,
+        "expected_topics": []
+    },
+    {
+        "id": "Q19",
+        "question": "How do electric vehicle manufacturers optimize battery production costs?",
+        "expected_relevance": false,
+        "expected_topics": []
+    },
+    {
+        "id": "Q20",
+        "question": "What are the major challenges facing the global aviation industry?",
+        "expected_relevance": false,
+        "expected_topics": []
+    },
+    {
+        "id": "Q21",
+        "question": "How has social media changed consumer purchasing behavior?",
+        "expected_relevance": false,
+        "expected_topics": []
+    },
+    {
+        "id": "Q22",
+        "question": "How is robotic surgery adoption progressing in the United States?",
+        "expected_relevance": false,
+        "expected_topics": []
+    },
+    {
+        "id": "Q23",
+        "question": "What are the leading robotic surgery systems used in Japanese hospitals?",
+        "expected_relevance": false,
+        "expected_topics": []
+    },
+    {
+        "id": "Q24",
+        "question": "What is the average purchase price of a robotic surgery system in India?",
+        "expected_relevance": false,
+        "expected_topics": []
+    },
+    {
+        "id": "Q25",
+        "question": "Which robotic surgery manufacturer has the largest global market share?",
+        "expected_relevance": false,
+        "expected_topics": []
+    },
+    {
+        "id": "Q26",
+        "question": "What are the clinical outcomes of robotic surgery for cardiac procedures?",
+        "expected_relevance": false,
+        "expected_topics": []
+    }
+]
